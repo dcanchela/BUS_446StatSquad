@@ -33,7 +33,7 @@ Scatter plots showing relationships between:
 [Insert R² values or other performance metrics]
 All visualizations are included in the /visualizations folder and embedded in the final report.
 # 3. Business Case Report
-You can find the full project report in the Final_Report.pdf or Business_Report.md file in this repository.
+You can find the full project report in the 'Final_Report.pdf' or 'Business_Report.md' file in this repository.
 
 Report Includes: 
 - Project objectives and business case
